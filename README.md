@@ -1,16 +1,19 @@
-### Hi there 👋
+## Who?
+Patrick Ludewig is a developer specialized in Frontend and User Experience Design currently based in Vienna, Austria.  
+As a freelancer, he works for web agencies, companies, startups and individuals all over the world.
 
-<!--
-**Maybach91/maybach91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What
+- Frontend Development
+- Onlineshop / Websites
+- Shopify
+- Webflow
+- UX / UI oriented development
 
-Here are some ideas to get you started:
+## Where
+https://instagram.com/maybach_  
+https://twitter.com/maybach  
+https://yes.patrick.works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤔 I’m looking for help with Vue / Nextjs Projects
+🌱 I’m currently learning Vue; nextjs 
