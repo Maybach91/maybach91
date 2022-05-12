@@ -17,7 +17,7 @@ As a freelancer, he works for web agencies, companies, startups and individuals 
 - UX / UI oriented development
 
 ## Where
-[Instagram](https://instagram.com/maybach_)
+[Instagram](https://instagram.com/maybach_)  
 [Twitter](https://twitter.com/maybach)
   
 → https://yes.patrick.works
