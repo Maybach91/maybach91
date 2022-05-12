@@ -19,6 +19,7 @@ As a freelancer, he works for web agencies, companies, startups and individuals 
 ## Where
 [Instagram](https://instagram.com/maybach_)  
 [Twitter](https://twitter.com/maybach)
+[My personal “Today I Learned”](https://maybach.notion.site/cc0cd23c938346a4a914e4f0c7cc5896?v=7c30209d9df0478db4fb4e7fc01c04fd)
   
 → https://yes.patrick.works
 
